@@ -11,6 +11,8 @@ const CardList = ({ robots }) => {
 		    <Card id={robots[3].id} name={robots[3].name} email={robots[3].email}/>
 		    <Card id={robots[4].id} name={robots[4].name} email={robots[4].email}/>
 		    <Card id={robots[5].id} name={robots[5].name} email={robots[5].email}/>
+		    <Card id={robots[6].id} name={robots[6].name} email={robots[6].email}/>
+		    <Card id={robots[7].id} name={robots[7].name} email={robots[7].email}/>
 	    </div>
 	);
 }
